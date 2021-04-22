@@ -15,17 +15,6 @@
     background-color: #666681;
     color: aliceblue;
 }
-.catagories h1{
-    color:white;
-    font-size: medium;
-}
-
-.dress, .coming{
-    margin-top: 30px;
-    padding: 20px;
-    border-radius: 7px;
-    background-image:url(img/cat.jpeg);
-}
 
 .bst{
     padding-top: 40px;
@@ -36,7 +25,7 @@
     border-radius: 7px;
     color: blanchedalmond;
     height: 150px;
-    background-color: #454745;
+    background-color: #578d5e;
 }
 
 footer{
