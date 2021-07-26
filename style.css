@@ -21,11 +21,13 @@
 }
 
 .cont{
+    border: solid black 1;
     margin-top: 40px;
     border-radius: 7px;
     color: blanchedalmond;
-    height: 150px;
+    height: 170px;
     background-color: #578d5e;
+    text-align: center;
 }
 
 footer{
